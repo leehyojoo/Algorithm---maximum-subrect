@@ -1,4 +1,4 @@
-# Algorithm---maximum-subrect
+# Algorithm_Maximum_Subrect
 sloving maximum subrect algorithm problem with 3 time complexity
 
 
